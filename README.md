@@ -12,4 +12,4 @@ Run this in your terminal inside the directory
 
 ___
 
-Here's an [article](https://medium.com/@akassharjun/how-does-the-rsa-algorithm-work-bd8275cd98b9) I wrote on Medium explaining this algorithmn further
+Here's an [article](https://medium.com/@akassharjun/how-does-the-rsa-algorithm-work-bd8275cd98b9) I wrote on Medium explaining this algorithm further
